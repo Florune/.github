@@ -1,7 +1,3 @@
-Understood. Here is a **professional, strong-tone, no-emoji** version appropriate for a serious organization’s main GitHub page.
-
----
-
 # Florune
 
 ### Sovereign Agreements for a Trustless Digital Economy
@@ -66,6 +62,6 @@ Every action is authenticated on-chain, producing an immutable and auditable his
 
 ## Contact and Resources
 
-* Website: [florune.net]
-* Documentation: [[link](https://florune.github.io/florune-documentation/)]
-* Email: [info@florune.net]
+* Website: [florune.net](https://florune.net)
+* Documentation: [florune.github.io/florune-documentation](https://florune.github.io/florune-documentation/)
+* Email: [info@florune.net](info@florune.net)
