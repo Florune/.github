@@ -1,7 +1,3 @@
-Understood. Here is a **professional, strong-tone, no-emoji** version appropriate for a serious organization’s main GitHub page.
-
----
-
 # Florune
 
 ### Sovereign Agreements for a Trustless Digital Economy
