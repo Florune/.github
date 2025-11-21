@@ -63,6 +63,6 @@ Every action is authenticated on-chain, producing an immutable and auditable his
 ## Contact and Resources
 
 * Website: [florune.net](https://florune.net)
-* Documentation: [link](https://florune.github.io/florune-documentation/)
+* Documentation: [florune.github.io/florune-documentation](https://florune.github.io/florune-documentation/)
 * Email: [info@florune.net](info@florune.net)
 
